@@ -1,6 +1,6 @@
 # Snake-game
 
-1. Install python on your system
+1. Install python on your system if not already installed
 
 2. Clone the repository
 ```
@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 4. Run the project
 ```
-python first_game.py
+python snake_game.py
 ```
 
 5. Enjoy the game
