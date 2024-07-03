@@ -17,4 +17,4 @@ pip install -r requirements.txt
 python snake_game.py
 ```
 
-5. Enjoy the game.
+5. Enjoy this amazing game.
